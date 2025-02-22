@@ -4,9 +4,8 @@
 🔹 Aspiring AI/ML Engineer | Full-Stack Developer  
 🔹 Passionate about problem-solving, algorithms, and automation  
 🔹 Currently learning: Python, JavaScript, and AI development  
-
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW82c2t4N2cyaHBmbzdnb3RwZmYyNWgxY28xcHAwMXNnM21jdHU3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10HHiQbUEcOMr6/giphy.gif" width="400" align="right">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDc5NzlzcGRveW43aGlubHE1Nm90dDR0OTdza3YyNDJuMDNncXFncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11hVniWaqh17Q4/giphy.gif" width="425" align="right">
 </p>
 
 ### 🚀 Tech Stack
