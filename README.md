@@ -17,7 +17,7 @@
 
 
 ### 📌 Pinned Projects
-- Image Conversion AI-Agent
+- Image Converter
 
 ### 📊 GitHub Stats
 ![Nifemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1femi&show_icons=true&theme=dark)
