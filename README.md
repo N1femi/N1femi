@@ -15,9 +15,5 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-### 📌 Pinned Projects
-- Image Converter
-
 ### 📊 GitHub Stats
 ![Nifemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1femi&show_icons=true&theme=dark)
