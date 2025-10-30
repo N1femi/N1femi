@@ -4,7 +4,7 @@
 - Currently refining skills: Python, JavaScript, and AI development  
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDc5NzlzcGRveW43aGlubHE1Nm90dDR0OTdza3YyNDJuMDNncXFncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11hVniWaqh17Q4/giphy.gif" width="375" align="right" style="margin-left: 20px">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDc5NzlzcGRveW43aGlubHE1Nm90dDR0OTdza3YyNDJuMDNncXFncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11hVniWaqh17Q4/giphy.gif" width="355" align="right" style="margin-left: 25px">
 </p>
 
 ### 🚀 Tech Stack
