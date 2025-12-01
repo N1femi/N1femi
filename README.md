@@ -15,5 +15,3 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
-
-![Nifemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1femi&show_icons=true&theme=dark)
