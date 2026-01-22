@@ -1,17 +1,31 @@
-## Hi, I'm Nifemi! 👋  
-- Aspiring AI/ML Engineer | Full-Stack Developer  
-- Passionate about problem-solving, algorithms, and automation  
-- Currently refining skills: Python, JavaScript, and AI development  
+<div align="center">
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDc5NzlzcGRveW43aGlubHE1Nm90dDR0OTdza3YyNDJuMDNncXFncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11hVniWaqh17Q4/giphy.gif" width="355" align="right" style="margin-left: 25px">
-</p>
+**AI/ML Engineer** · **Software Engineer**
 
-### 🚀 Tech Stack
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+Passionate about problem-solving, algorithms, and turning ideas into tangible things.
+
+</div>
+
+---
+
+🔭 Building tools · 🧠 Sharpening my swagger skills · 🎯 Automation & applying learned material
+
+### 🛠️ Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+<hr>
+<div align="center">
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=n1femi&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" width="400"/></td>
+<td><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDc5NzlzcGRveW43aGlubHE1Nm90dDR0OTdza3YyNDJuMDNncXFncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11hVniWaqh17Q4/giphy.gif" width="350"/></td>
+</tr>
+</table>
+</div>
