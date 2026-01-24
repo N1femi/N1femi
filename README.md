@@ -20,6 +20,7 @@ Passionate about problem-solving, algorithms, and turning ideas into tangible th
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-5937fe?style=for-the-badge&logo=pandas)
 <hr>
 <div align="center">
 <table>
