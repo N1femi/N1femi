@@ -26,7 +26,6 @@ Passionate about problem-solving, algorithms, and turning ideas into tangible th
 <div align="center">
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=n1femi&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" width="500"/></td>
 <td><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDc5NzlzcGRveW43aGlubHE1Nm90dDR0OTdza3YyNDJuMDNncXFncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11hVniWaqh17Q4/giphy.gif" width="400"/></td>
 </tr>
 </table>
