@@ -2,13 +2,13 @@
 
 **AI/ML Engineer** · **Software Engineer**
 
-Passionate about problem-solving, algorithms, and turning ideas into tangible things.
+Passionate about problem-solving, algorithms, and creating.
 
 </div>
 
 ---
 
-#### *Building tools, Sharpening my swagger skills, & applying learned material*
+#### Buildin and learnin*
 
 ### 🛠️ Familiar Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
