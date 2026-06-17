@@ -8,7 +8,7 @@ Passionate about problem-solving, algorithms, and creating.
 
 ---
 
-#### Buildin and learnin*
+#### Buildin and learnin
 
 ### 🛠️ Familiar Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
