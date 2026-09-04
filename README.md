@@ -1,6 +1,6 @@
 <div align="center">
 
-**AI/ML Engineer** · **Software Engineer**
+**Software Engineering** · **Systems Engineering** · **AI/ML Engineering**
 
 Passionate about problem-solving, algorithms, and creating.
 
