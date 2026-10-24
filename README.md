@@ -9,6 +9,7 @@ Passionate about problem-solving, algorithms, and creating.
 ---
 
 #### Buildin and learnin
+Currently learning more on: FlaskAPI, C++
 
 ### 🛠️ Familiar Technologies
 ![C++](https://img.shields.io/badge/-C++-3776AB?style=flat-square&logo=cplusplus&logoColor=white)
